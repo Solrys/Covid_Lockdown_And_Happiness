@@ -1,0 +1,201 @@
+Country/Region,Date,Type
+Mainland China,2020-01-23,Full
+Hong Kong,2020-03-23,Full
+Macau,2020-01-26,Full
+Taiwan,2020-02-02,Full
+US,2020-03-23,Partial
+Japan,2020-02-27,Full
+Thailand,2020-03-22,Partial
+South Korea,2020-02-23,Full
+Singapore,2020-03-26,Partial
+Philippines,2020-03-16,Partial
+Malaysia,2020-03-18,Full
+Vietnam,2020-03-19,Full
+Australia,2020-03-25,Partial
+Mexico,2020-03-14,Partial
+Brazil,,
+Colombia,2020-03-25,Full
+France,2020-03-16,Full
+Nepal,2020-03-24,Full
+Canada,2020-03-16,Partial
+Cambodia,2020-03-28,Partial
+Sri Lanka,2020-03-21,Full
+Ivory Coast,2020-03-24,Partial
+Germany,2020-03-20,Full
+Finland,2020-03-27,Full
+United Arab Emirates,2020-03-24,Full
+India,2020-03-24,Full
+Italy,2020-03-11,Full
+UK,2020-03-23,Full
+Russia,2020-03-27,Full
+Sweden,,
+Spain,2020-03-14,Full
+Belgium,2020-03-17,Full
+Egypt,2020-03-24,Full
+Iran,2020-03-15,Full
+Israel,2020-03-12,Full
+Lebanon,2020-03-16,Full
+Iraq,2020-03-22,Full
+Oman,2020-03-29,Partial
+Afghanistan,2020-03-24,Full
+Bahrain,2020-02-25,Full
+Kuwait,2020-03-16,Partial
+Austria,2020-03-16,Full
+Algeria,2020-03-24,Full
+Croatia,2020-03-22,Partial
+Switzerland,2020-03-18,Full
+Pakistan,2020-03-26,Full
+Georgia,2020-03-22,Partial
+Greece,2020-03-18,Full
+North Macedonia,2020-03-18,Full
+Norway,2020-03-12,Full
+Romania,2020-03-25,Full
+Denmark,2020-03-11,Full
+Estonia,2020-03-13,Full
+Netherlands,2020-03-24,Full
+San Marino,2020-03-09,Full
+Belarus,,
+Iceland,2020-03-16,Full
+Lithuania,2020-03-16,Full
+New Zealand,2020-03-25,Full
+Nigeria,2020-03-25,Full
+North Ireland,2020-03-23,Full
+Ireland,2020-03-12,Full
+Luxembourg,2020-03-16,Full
+Monaco,2020-03-17,Full
+Qatar,2020-03-11,Full
+Ecuador,2020-03-24,Partial
+Azerbaijan,2020-03-02,Full
+Czech Republic,2020-03-16,Full
+Armenia,2020-03-24,Full
+Dominican Republic,2020-03-17,Full
+Indonesia,,
+Portugal,2020-03-18,Full
+Andorra,2020-03-16,Full
+Latvia,2020-03-13,Full
+Morocco,2020-03-16,Full
+Saudi Arabia,2020-03-15,Full
+Senegal,2020-03-24,Partial
+Argentina,2020-03-20,Full
+Chile,2020-03-26,Full
+Jordan,2020-03-21,Full
+Ukraine,2020-03-17,Full
+Saint Barthelemy,,
+Hungary,2020-03-16,Full
+Faroe Islands,2020-03-12,Full
+Gibraltar,2020-03-24,Full
+Liechtenstein,,
+Poland,2020-03-12,Full
+Tunisia,2020-03-20,Full
+Palestine,2020-03-05,Full
+Bosnia and Herzegovina,2020-03-11,Full
+Slovenia,2020-03-11,Full
+South Africa,2020-03-26,Full
+Bhutan,2020-03-06,Full
+Cameroon,,
+Costa Rica,2020-03-15,Full
+Peru,2020-03-10,Full
+Serbia,2020-03-15,Full
+Slovakia,2020-03-09,Full
+Togo,2020-03-20,Partial
+Vatican City,2020-03-10,Full
+French Guiana,,
+Malta,2020-03-12,Full
+Martinique,2020-03-20,Partial
+Republic of Ireland,2020-03-12,Full
+Bulgaria,2020-03-13,Full
+Maldives,2020-03-11,Full
+Bangladesh,2020-03-19,Full
+Moldova,2020-03-11,Full
+Paraguay,2020-03-15,Partial
+Albania,2020-03-08,Full
+Cyprus,2020-03-25,Full
+St. Martin,,
+Brunei,,
+Burkina Faso,2020-03-21,Full
+Channel Islands,,
+Holy See,,
+Mongolia,2020-03-10,Full
+Panama,2020-03-25,Full
+Bolivia,2020-03-12,Full
+Honduras,2020-03-20,Partial
+DR Congo,,
+Jamaica,2020-03-12,Full
+Reunion,,
+Turkey,2020-03-23,Full
+Cuba,,
+Guyana,,
+Kazakhstan,,
+Cayman Islands,,
+Guadeloupe,,
+Ethiopia,2020-03-16,Full
+Sudan,,
+Guinea,,
+Antigua and Barbuda,,
+Aruba,2020-03-16,Full
+Kenya,2020-03-15,Full
+Uruguay,2020-03-16,Full
+Ghana,2020-03-15,Full
+Jersey,2020-03-18,Full
+Namibia,2020-03-14,Full
+Seychelles,,
+Trinidad and Tobago,2020-03-13,Full
+Venezuela,2020-03-16,Full
+Curacao,,
+Eswatini,,
+Gabon,,
+Guatemala,,
+Guernsey,2020-03-19,Partial
+Mauritania,,
+Rwanda,2020-03-16,Full
+Saint Lucia,2020-03-20,Full
+Saint Vincent and the Grenadines,,
+Suriname,,
+Kosovo,2020-03-25,Partial
+Central African Republic,,
+Congo (Brazzaville),,
+Equatorial Guinea,,
+Uzbekistan,2020-03-20,Partial
+Guam,2020-03-26,Full
+Puerto Rico,2020-03-13,Full
+Benin,,
+Greenland,,
+Liberia,,
+Mayotte,,
+Republic of the Congo,,
+Somalia,2020-03-19,Full
+Tanzania,,
+The Bahamas,2020-03-20,Full
+Barbados,2020-03-28,Full
+Montenegro,2020-03-24,Full
+The Gambia,,
+Kyrgyzstan,2020-03-24,Partial
+Mauritius,2020-03-17,Partial
+Zambia,,
+Djibouti,,
+Chad,,
+El Salvador,,
+Fiji,,
+Nicaragua,,
+Madagascar,,
+Haiti,,
+Angola,,
+Niger,,
+Papua New Guinea,,
+Zimbabwe,,
+Cape Verde,,
+East Timor,,
+Eritrea,,
+Uganda,2020-03-18,Full
+Dominica,,
+Grenada,,
+Mozambique,,
+Syria,,
+Belize,,
+Laos,,
+Libya,,
+Diamond Princess,,
+Guinea-Bissau,,
+Mali,2020-03-18,Full
+Saint Kitts and Nevis,,
+Burma,,
